@@ -61,7 +61,7 @@ body {
 .card .card-head .card-product-img::after {
     --aqua: hsl(178, 100%, 50%, 0.5);
 
-    content: url(imgs/icon-view.svg);
+    content: url(../imgs/icon-view.svg);
     background: var(--aqua);
     position: absolute;
     inset: 0;
